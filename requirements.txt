@@ -9,4 +9,3 @@ wheel==0.34.2
 setuptools==46.3.1
 h5py==2.10.0
 numpy==1.18.4
-python==3.8.3
