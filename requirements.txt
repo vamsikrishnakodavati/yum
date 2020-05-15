@@ -8,3 +8,6 @@ h5py==2.7.0
 tensorflow>=1.12.1
 gunicorn>=19.5.0
 wheel==0.34.2
+setuptools==46.3.1
+h5py==2.10.0
+numpy==1.18.4
